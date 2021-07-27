@@ -1,3 +1,3 @@
 # panchang-generator
-It's just a work in progress ...
+It's just a work in progress ...<br />
 Open the odf file in LibreOffice Calc.

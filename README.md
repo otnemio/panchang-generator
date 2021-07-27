@@ -1,2 +1,3 @@
 # panchang-generator
 It's just a work in progress ...
+Open the odf file in LibreOffice Calc.
